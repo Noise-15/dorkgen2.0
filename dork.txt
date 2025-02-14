@@ -1,0 +1,1 @@
+("produto 1" OR "produto1 e um adicional") (site:.br OR site:.com) ("Cielo" OR "Pagseguro" OR "Pag Seguro" OR "Pag-Seguro" OR "Pagarme" OR "pagar.me" OR "Nuvempago" OR "Nuvem Pago" OR "Nuvem-Pago" OR "Upay" OR "Zoop" OR "Ebanx" OR "Erede" OR "Redecard" OR "Safrapay" OR "Braspag" OR "Chagerb" OR "Getnet" OR "Baintree" OR "Klap" OR "Adyen" OR "Iugu" OR "Assas")
